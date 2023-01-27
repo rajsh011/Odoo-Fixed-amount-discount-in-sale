@@ -1,7 +1,7 @@
 # Copyright 2017-22 Kbizsoft.
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
-    "name": "Sale Fixed Discount",
+    "name": "Sale Fixed Amount Discount",
     "summary": "Allows to apply fixed amount discounts in sales orders.",
     "version": "16.0.0",
     "category": "Sales",
